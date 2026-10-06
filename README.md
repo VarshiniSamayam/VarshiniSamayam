@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NeoHima</h1>
+<h1 align="center">Hi 👋, I'm Himavarshini </h1>
 <h3 align="center">Aspiring Developer | Code Enthusiast | Creative Tech Explorer</h3>
 
 <p align="center">
@@ -34,12 +34,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeoHima&show_icons=true&theme=radical" alt="NeoHima's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoHima&theme=radical" alt="NeoHima's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himavarshini&show_icons=true&theme=radical" alt="Himavarshini's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himavarshini&theme=radical" alt="Himavarshini's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoHima&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himavarshini&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
